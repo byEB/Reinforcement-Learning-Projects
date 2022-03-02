@@ -35,8 +35,18 @@
     - [ ] Deep Q-learning
     - [ ] Q-learning
 
-           
+          
 - [ ] MountainCarContinuous
+
+    - [ ] REINFORCE algorithm 
+    - [ ] TRPO
+    - [ ] PPO
+    - [ ] DDPG
+    - [ ] TD3
+    - [ ] Deep Q-learning
+    - [ ] Q-learning
+
+
 - [ ] Bipedal Walker
 - [ ] Car rising
 - [ ] lunar Leader 
