@@ -43,8 +43,10 @@
     - [ ] PPO
     - [ ] DDPG
     - [ ] TD3
+    - [ ] A2C
+    - [ ] A3C
     - [ ] Deep Q-learning
-    - [ ] Q-learning
+    
 
 
 - [ ] Bipedal Walker
